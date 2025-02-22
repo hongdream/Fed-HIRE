@@ -14,6 +14,4 @@ This project is compatible with the packages:
 
 * scikit-learn 1.5.2
 
-## Run
-
-The datasets are stored in the 'dataset' folder. Click the 'main.py' file to run the code.
+## The datasets are stored in the 'dataset' folder. Click the 'main.py' file to run the code.
